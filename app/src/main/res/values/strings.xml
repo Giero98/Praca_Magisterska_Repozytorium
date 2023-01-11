@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Master Thesis</string>
+    <string name="connect_by_bluetooth">Connect by Bluetooth</string>
+    <string name="connect_by_wi_fi">Connect by Wi-Fi</string>
 </resources>
